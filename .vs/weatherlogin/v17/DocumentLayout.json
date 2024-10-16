@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E900942-D86E-49C6-B524-0E0A24FFCCAE}|weatherapilogin\\weatherapilogin\\weatherapilogin.csproj|solutionrelative:weatherapilogin\\weatherapilogin\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330855BD-6471-404B-A8FB-86D2714E4680}|weatherapilogin\\weatherapilogin.Client\\weatherapilogin.Client.csproj|c:\\users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{330855BD-6471-404B-A8FB-86D2714E4680}|weatherapilogin\\weatherapilogin.Client\\weatherapilogin.Client.csproj|solutionrelative:weatherapilogin\\weatherapilogin.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T11:57:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:38:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-15T12:38:10.408Z",
+              "EditorCaption": " -  [English (United States)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:38:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\App.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\App.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:59:29.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signup.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Signup.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Signup.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Signup.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Signup.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:45:28.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\AuthService.cs",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\AuthService.cs",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\AuthService.cs",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:12:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:56:23.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:43:11.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:43:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\_Imports.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:35:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin.Client\\_Imports.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:34:06.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAI8AAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T06:57:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Program.cs",
+              "RelativeDocumentMoniker": "weatherapilogin\\weatherapilogin\\Program.cs",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherapilogin\\weatherapilogin\\Program.cs",
+              "RelativeToolTip": "weatherapilogin\\weatherapilogin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:57:08.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

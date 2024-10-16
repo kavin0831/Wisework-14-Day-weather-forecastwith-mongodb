@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weatherapilogin", "weatherapilogin\weatherapilogin\weatherapilogin.csproj", "{4E900942-D86E-49C6-B524-0E0A24FFCCAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weatherapilogin.Client", "weatherapilogin\weatherapilogin.Client\weatherapilogin.Client.csproj", "{330855BD-6471-404B-A8FB-86D2714E4680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E900942-D86E-49C6-B524-0E0A24FFCCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E900942-D86E-49C6-B524-0E0A24FFCCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E900942-D86E-49C6-B524-0E0A24FFCCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E900942-D86E-49C6-B524-0E0A24FFCCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330855BD-6471-404B-A8FB-86D2714E4680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330855BD-6471-404B-A8FB-86D2714E4680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330855BD-6471-404B-A8FB-86D2714E4680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330855BD-6471-404B-A8FB-86D2714E4680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08BE4EF7-F098-4D6F-925B-8AD7D38FCF32}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherlogin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\weatherlogin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\weatherlogin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherlogin\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherlogin\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherlogin\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\appuk\\source\\repos\\weatherlogin\\weatherlogin\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.weatherlogin.props",
+      "PackagePath": "build\\weatherlogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.weatherlogin.props",
+      "PackagePath": "buildMultiTargeting\\weatherlogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.weatherlogin.props",
+      "PackagePath": "buildTransitive\\weatherlogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.weatherlogin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

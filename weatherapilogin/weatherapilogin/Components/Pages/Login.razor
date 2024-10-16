@@ -1,0 +1,112 @@
+﻿@page "/login"
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
+@using MongoDB.Driver
+@using MongoDB.Bson
+@rendermode InteractiveServer
+
+<h3 class="title">Login</h3>
+
+<div class="form-container">
+    <input @bind="username" placeholder="Enter your username" class="input-field" />
+    <input @bind="password" placeholder="Enter your password" type="password" class="input-field" />
+    <button @onclick="LoginUser" class="btn">Login</button>
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <p class="error">@errorMessage</p>
+    }
+</div>
+
+<style>
+    .form-container {
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+        text-align: center;
+    }
+
+    .input-field {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+    }
+
+    .btn {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+    .error {
+        color: red;
+        margin-top: 10px;
+    }
+
+    .title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+</style>
+
+@code {
+    private string username = string.Empty;
+    private string password = string.Empty;
+    private string? errorMessage;
+
+    private async Task LoginUser()
+    {
+        if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+        {
+            errorMessage = "Username and password are required.";
+            return;
+        }
+
+        try
+        {
+            var client = new MongoClient("mongodb+srv://kavi:kavi@signlog.qr3cw.mongodb.net/?retryWrites=true&w=majority&appName=Signlog");
+            var database = client.GetDatabase("UserDB");
+            var collection = database.GetCollection<User>("Users");
+
+           
+            var existingUser = await collection.Find(u => u.Username == username && u.Password == password).FirstOrDefaultAsync();
+            if (existingUser == null)
+            {
+                errorMessage = "User does not exist or password is incorrect.";
+            }
+            else
+            {
+                errorMessage = null;
+
+        
+                await JS.InvokeVoidAsync("localStorage.setItem", "isAuthenticated", "true");
+
+                Navigation.NavigateTo("/weather");
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"An error occurred: {ex.Message}";
+        }
+    }
+
+    public class User
+    {
+        public MongoDB.Bson.ObjectId Id { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}
