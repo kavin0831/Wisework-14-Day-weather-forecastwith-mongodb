@@ -77,7 +77,7 @@
 
         try
         {
-            var client = new MongoClient("mongodb+srv://kavi:kavi@signlog.qr3cw.mongodb.net/?retryWrites=true&w=majority&appName=Signlog");
+            var client = new MongoClient("");
             var database = client.GetDatabase("UserDB");
             var collection = database.GetCollection<User>("Users");
 
